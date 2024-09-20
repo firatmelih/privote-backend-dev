@@ -14,7 +14,7 @@ import java.util.List;
 @AllArgsConstructor
 @NoArgsConstructor
 @Table(name = "user_table")
-public class User {
+public class User { // todo jwt refresh token
     @Id
     @GeneratedValue
     private Integer id;
