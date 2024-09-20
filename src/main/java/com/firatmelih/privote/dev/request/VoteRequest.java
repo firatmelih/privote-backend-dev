@@ -10,6 +10,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class VoteRequest {
-    private Integer pollId;
+    private Integer pollId; // todo add validations
     private Integer optionId;
 }

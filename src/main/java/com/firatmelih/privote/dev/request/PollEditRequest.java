@@ -12,7 +12,7 @@ import java.util.List;
 @AllArgsConstructor
 @NoArgsConstructor
 public class PollEditRequest {
-    private String title;
+    private String title; // todo add validations
     private String description;
     private List<String> options;
     private List<String> voters;

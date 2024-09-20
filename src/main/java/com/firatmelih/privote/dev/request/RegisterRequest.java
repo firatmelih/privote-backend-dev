@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class RegisterRequest {
-    String username;
+    String username; // todo add validations
     String password;
     String email;
     String firstName;
