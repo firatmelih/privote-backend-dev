@@ -16,7 +16,7 @@ __________        .__             __
     - [Poll Controller](#poll-controller)
     - [Auth Controller](#auth-controller)
     - [Vote Controller](#vote-controller)
-- Request Details
+- [Request Details](#request-details)
     - [Poll](#poll)
     - [Auth](#auth)
     - [Vote](#vote)
